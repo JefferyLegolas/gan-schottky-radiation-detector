@@ -23,3 +23,8 @@ The study establishes electrical device behaviour and a passivation trade-off. I
 ## Repository
 
 The root `index.html` is a self-contained static page that references the optimized public assets from the deployed research site.
+
+## Other public projects
+
+- [Detecting Battery Failure Before Thermal Runaway](https://github.com/JefferyLegolas/lithium-battery-thesis) — an interactive UCL MSc research portfolio connecting anomalous pre-runaway voltage events with ARC, CT, DSC, TGA and XRD evidence. [View the live case](https://jefferylegolas.github.io/lithium-battery-thesis/).
+- [Battery Atlas](https://github.com/JefferyLegolas/Battery-Atlas) — a mobile-friendly, offline-first explorer for matching material constraints to candidate battery systems, producers and public evidence. [Open the atlas](https://jefferylegolas.github.io/Battery-Atlas/).
