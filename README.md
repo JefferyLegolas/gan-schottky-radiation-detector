@@ -1,6 +1,6 @@
 # GaN Schottky Radiation Detectors
 
-An evidence-grounded research website for Tianli Shi's final-year project on quasi-vertical GaN Schottky barrier diodes for future space-radiation detector applications.
+An evidence-grounded research website for the final-year project by 史天立 on quasi-vertical GaN Schottky barrier diodes for future space-radiation detector applications.
 
 ## Live website
 
